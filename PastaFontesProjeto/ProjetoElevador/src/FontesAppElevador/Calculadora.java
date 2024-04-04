@@ -2,7 +2,6 @@ package FontesAppElevador;
 
 //Classe de entidade - Calculadora aritmética de apoio para estimar a carga do elevador
 public class Calculadora {
-
 	//Atributo de resultado de cálculo
 	double resultado;
 	
@@ -27,4 +26,5 @@ public class Calculadora {
 		return this.resultado;
 	}
 
+	//Alteração para subir no git
 }
