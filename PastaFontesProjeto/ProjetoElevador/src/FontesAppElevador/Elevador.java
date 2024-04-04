@@ -2,7 +2,6 @@ package FontesAppElevador;
 
 //Classe de entidade - Elevador de edifício
 public class Elevador {
-	
 	int id;
 	double cargaMaxima;
 	double cargaAtual;
